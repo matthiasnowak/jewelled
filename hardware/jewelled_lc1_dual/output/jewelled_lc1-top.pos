@@ -1,0 +1,53 @@
+### Footprint positions - created on 2024-06-16T19:37:00+0200 ###
+### Printed by KiCad version 8.0.3
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                                      PosX       PosY       Rot  Side
+BZ1       FUET-4020          FUET-4020                                147.2000  -112.7000    0.0000  top
+C1        100nF              C_0402_1005Metric                        146.9500  -125.5500    0.0000  top
+C2        100nF              C_0402_1005Metric                        147.1000  -122.1000    0.0000  top
+C3        2.2uF              C_0402_1005Metric                        148.2500  -117.8500   90.0000  top
+C4        2.2uF              C_0402_1005Metric                        147.4000  -107.5000  180.0000  top
+C5        100nF              C_0402_1005Metric                        145.4000  -107.5000    0.0000  top
+C6        2.2uF              C_0402_1005Metric                        148.7500  -116.0500    0.0000  top
+C7        2.2uF              C_0402_1005Metric                        143.4500  -109.5500   90.0000  top
+C8        100nF              C_0402_1005Metric                        154.1000  -104.3000  -90.0000  top
+C9        100nF              C_0402_1005Metric                        142.2500  -109.5500   90.0000  top
+C10       100nF              C_0402_1005Metric                        146.3000   -99.6000  -90.0000  top
+C11       2.2uF              C_0402_1005Metric                        145.1000   -99.6000  -90.0000  top
+C12       100nF              C_0402_1005Metric                        147.5000  -103.0000   90.0000  top
+D1        white              LED_0402_1005Metric                      149.3000  -126.1000   63.4000  top
+D2        white              LED_0402_1005Metric                      152.0828  -120.3837   63.4000  top
+D3        white              LED_0402_1005Metric                      154.7000  -115.3000   63.4000  top
+D4        white              LED_0402_1005Metric                      157.1500  -110.1500   63.4000  top
+D5        white              LED_0402_1005Metric                      160.1000  -104.5000   90.0000  top
+D6        white              LED_0402_1005Metric                      157.4000   -99.1000  116.6000  top
+D7        white              LED_0402_1005Metric                      154.7000   -93.7000  116.6000  top
+D8        white              LED_0402_1005Metric                      152.0000   -88.3000  116.6000  top
+D9        white              LED_0402_1005Metric                      149.3000   -82.9000  116.6000  top
+D10       white              LED_0402_1005Metric                      144.7000   -82.9000   63.4000  top
+D11       white              LED_0402_1005Metric                      142.0000   -88.3000   63.4000  top
+D12       white              LED_0402_1005Metric                      139.3000   -93.7000   63.4000  top
+D13       white              LED_0402_1005Metric                      136.6000   -99.1000   63.4000  top
+D14       white              LED_0402_1005Metric                      133.9000  -104.5000   90.0000  top
+D15       white              LED_0402_1005Metric                      136.8500  -110.1500  -153.4000  top
+D16       white              LED_0402_1005Metric                      139.2675  -115.2000  116.6000  top
+D17       white              LED_0402_1005Metric                      142.0000  -120.7000  116.6000  top
+D18       white              LED_0402_1005Metric                      144.7000  -126.1000  116.6000  top
+D19       NSVBAS21M3T5G      SOT-723                                  150.9000  -112.4000    0.0000  top
+Q2        TPM2008EP3BSS138   DFN-3_1.0x0.6mm_P0.35mm                  152.5000  -109.1000   90.0000  top
+R1        33k                R_0402_1005Metric                        147.5000   -99.6000  -90.0000  top
+R2        1M                 R_0402_1005Metric                        145.4000  -109.9000  180.0000  top
+R3        1M                 R_0402_1005Metric                        145.4000  -108.7000    0.0000  top
+R4        33k                R_0402_1005Metric                        145.9500  -119.5500    0.0000  top
+R5        4k7                R_0402_1005Metric                        145.4500  -103.3500  180.0000  top
+R6        4k7                R_0402_1005Metric                        145.4500  -102.2500  180.0000  top
+U1        IS31FL3208A-QFLS4  QFN-28-1EP_4x4mm_P0.4mm_EP2.4x2.4mm      147.0000   -96.0000   90.0000  top
+U2        LW5228N11E         UDFN-4-1EP_1x1mm_P0.65mm_EP0.48x0.48mm   147.4000  -109.1000  -90.0000  top
+U3        CH32V203G6U6       QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm      150.7000  -103.5000    0.0000  top
+U4        WS4518D            DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm        146.1500  -117.1500   90.0000  top
+U5        AP6683             UDFN-4-1EP_1x1mm_P0.65mm_EP0.48x0.48mm   149.1000   -87.3000    0.0000  top
+U6        24LC512_Pad        DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm      142.7175  -102.5000    0.0000  top
+U7        ZTS6117H           ZTS6117H                                 142.8500  -111.9000  -90.0000  top
+U8        LW5228N11E         UDFN-4-1EP_1x1mm_P0.65mm_EP0.48x0.48mm   150.4500  -109.1000  -90.0000  top
+## End

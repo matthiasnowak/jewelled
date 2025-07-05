@@ -1,0 +1,11 @@
+### Footprint positions - created on 2024-06-16T19:37:00+0200 ###
+### Printed by KiCad version 8.0.3
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                  Package                      PosX       PosY       Rot  Side
+BT1       BS-08-B2BA004        BS-08-B2BA004            147.0250   -99.0250  -90.0000  bottom
+J1        Conn_02x03_Odd_Even  pogo_conn_02x03_P2.0mm   154.4897  -116.0594  -116.6000  bottom
+SW1       SW_Push_Open         GT-TC048D-H025-L1        147.0000  -126.1000  180.0000  bottom
+SW2       SW_Push_Open         GT-TC048D-H025-L1        147.0500  -121.1000    0.0000  bottom
+SW3       MINI_MSK12CO2        MINI_MSK12CO2            136.0000  -106.9000  116.6000  bottom
+## End
