@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "jewelled_lc_symlib")(type "KiCad")(uri "D:/projects/jewelled/pcbs/jewelled_lc_devboard/jewelled_lc_symlib/jewelled_lc_symlib.kicad_sym")(options "")(descr ""))
+)

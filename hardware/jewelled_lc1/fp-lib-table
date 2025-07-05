@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "jewelled_lc_fplib")(type "KiCad")(uri "D:/projects/jewelled/pcbs/jewelled_lc_devboard/jewelled_lc_fplib/jewelled_lc_fplib.pretty")(options "")(descr ""))
+)
